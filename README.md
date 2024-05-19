@@ -18,7 +18,10 @@
   <img height="50" width="50" src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg">
   <img height="50" width="50" src="https://www.svgrepo.com/show/353488/blender.svg">
   <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
-  <img height="50" width="50" src="https://www.svgrepo.com/show/452091/python.svg"
+  <img height="50" width="50" src="https://www.svgrepo.com/show/452091/python.svg">
+  <img height="50" width="50" src="https://www.svgrepo.com/show/376337/node-js.svg">
+  <img height="50" width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+  
 </div>
 <div align=left>
   <h2>Connect with me:</h2>
